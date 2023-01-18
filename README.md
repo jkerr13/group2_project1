@@ -12,7 +12,7 @@
 * Tarun Midha
 
 ## **Executive Summary**
-Over the last two years, our lives changed in ways we've never seen before and hopefully will never see again.  Between stay-at-home orders, record housing prices, market highs and lows our lives will never be the same.  We have also seen technology rapidly advancing and 
+
 
 ## **Concept**
 
