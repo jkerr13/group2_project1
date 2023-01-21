@@ -78,6 +78,51 @@ returns moved in different directions (bitcoin having much higher volatility) up
 However, as BTC gained popularity and because a large player in the market, we see that it is now moving with the market. We see that as the US T-bill rate swung massively in 2020 and devalued bonds by large amounts the BTC returns immediately dropped. The reason being is that large corporations and big players started to purchase BTC and those big players were also affected by t-bill rates as they are most likely owners of debt in the form of bonds. As the interest on the bonds increases had you been in possession of BTC you would need to liquidate your BTC in order to support your bond loan debt. As a result the two began to move together and we see a decrease in the price of BTC as sell offs occur in order to keep up with the increasing debt expense. So in conclusion, hedging strategies ideally will help to provide more liquidity during a bear market. 
 
 
+### Question 2:
+Does Gold really act as a hedge during bear markets or are there better alternatives to gold as an asset class during times of economic turmoil?
+
+
+
+
+
+
+### Question 3:
+
+
+
+
+
+
+### Question 4:
+
+
+
+
+
+
+### Question 5:
+
+
+
+
+
+
+### Question 6:
+What impact do hedging strategies have on the liquidity of markets during a bear market?
+Hedging strategies in a  bear market should provide the portfolio with more liquidity. The idea being that in a bear market as confidence in the market is decreasing and as we see a decline in prices it becomes increasingly more difficult to take your securities to market and sell them. So by hedging what we are doing is diversifying the risk of asset allocation across a number of portfolios that remain independent of one another across different asset classes so that during market downturn your portfolio is not dependant on only one of the investment vehicles declining. So in our portfolio for example we are looking at BTC(crypto), treasury bonds (fixed-income), gold/oil(commodity market), and housing price index(real estate market). 
+
+![Gold, US T-Bill, Cash and Crude Oil Prices](Images/Q6_Chart.png)
+
+So as an example from the chart showing gold vs us t - bills vs cash vs crude oil from 2000-2024 we can see that in 2008 as oil and gold were taking a big dip, the t-bill market was fairly consistent and although bond yield had slightly increased resulting in a drop in bond prices, the dip in bond prices would not have been as significant as the dip in the oil price. As a result at that time if you were to be in need of liquidity by taking both your bonds and oil to market - incase no one was buying your oil you could still sell some of your bonds or gold for that matter as a way to provide yourself some liquidity relief while maintaining your oil position giving it time to recover and not having to dump it off at an extremely low price. We see similar behavior with crude oil in 2020 and even more drastic of a dip in oil vs the increase in bond yield and gold and as we can see hedging your oil in 2020 was a very smart move as the oil market had dipped so low and bounced back to such a high that had you been in need of cash when oil dipped and you had to liquidate your investments at such an all time low you would have missed the opportunity for oil to skyrocket in its recovery period as we can see in 2021-2022 onward. 
+
+
+
+
+
+
+
+
+
 
 ## **Demo**
 
