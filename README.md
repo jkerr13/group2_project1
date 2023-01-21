@@ -57,9 +57,8 @@ We also used various Python packages to help us get, clean and analyse the data.
 By combining these various packages and using them together, we were able to import all our required data, clean the data, analyse the data and create graphs and charts to help tell our story.
 
 
-
 ## **Approach**
-
+We looked at various 
 
 
 
