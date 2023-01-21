@@ -67,21 +67,15 @@ By combining these various packages and using them together, we were able to imp
 With all the data available, we looked to answer a few key quesitons using python analysis and graphs.
 
 ### Question 1:
-How does Bitcoin perform as a hedge during bear markets when compared to the US 10 year T-Bills? 
-We are going to take the data for the monthly price changes to BTC and the 10 year T-Bills for all the major world economies selected.
-After taking this MoM data and compiling it, we are going to plot the data on a graph and study the trends and relationship between the prices of the 10 year US T-Bills and Bitcoin, focusing on the times a bear market is in session.
+How does Bitcoin perform as a hedge during bear markets when compared to the US 10 year T-Bills? <br>
+We analysed the data for the monthly price changes for BTC and the 10 year T-Bills for all the major world economies selected.
+After taking this month over month data and compiling it, we ploted the data on a graph to study the trends and relationship between the two, focusing on the times a bear market is in session.
 
-![Bear_Market](Q1_Returns_Bear_Mkt.png)
+![Bitcoin vs 10-Year T-Bill Returns During a Bear Market](Images/Q1_Returns_Bear_Mkt.png)
 
-We can also see in the graph showing BTC price vs 10 yr US  t-bill 
-were moving in different directions(bitcoin having much higher volatility) up until 2020 when bitcoin had gained major footing as a major part of the economy
-by its massive increase in price, popularity and consumer confidence. Meaning up until 2020 BTC and US T-bills were a good combo to hedge against one another.
-But now we see that because bitcoin has moved into such a large position in the market that now it is moving with the market. We can see that as your US t-bill rate
-massively in 2020 and devalued bonds by large amounts the BTC returns immediately dropped. The reason being is that large corporations and big players start to
-purchase BTC those big players are also affected by t-bill rates as they are most likely owners of debt in the form of bonds. As the interest on the bonds increases
-had you been in possession of BTC you would need to liquidate your BTC in order to support your bond loan debt. As a result the two began to move together
-and we see a decrease in the price of BTC as sell offs occur in order to keep up with the increasing debt expense. So in conclusion, hedging strategies ideally will help to 
-provide more liquidity during a bear market. 
+We can see in the graph above that BTC returns vs 10 yr US t-bill 
+returns moved in different directions (bitcoin having much higher volatility) up until 2020. Around 2020 is when bitcoin gained footing as a major part of the economy.  This came about due to BTC's massive increase in price, popularity and consumer confidence.From this, we can see that up until 2020 BTC and US T-bills were a good combo to hedge against one another.
+However, as BTC gained popularity and because a large player in the market, we see that it is now moving with the market. We see that as the US T-bill rate swung massively in 2020 and devalued bonds by large amounts the BTC returns immediately dropped. The reason being is that large corporations and big players started to purchase BTC and those big players were also affected by t-bill rates as they are most likely owners of debt in the form of bonds. As the interest on the bonds increases had you been in possession of BTC you would need to liquidate your BTC in order to support your bond loan debt. As a result the two began to move together and we see a decrease in the price of BTC as sell offs occur in order to keep up with the increasing debt expense. So in conclusion, hedging strategies ideally will help to provide more liquidity during a bear market. 
 
 
 
