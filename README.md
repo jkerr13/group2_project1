@@ -13,6 +13,8 @@
 
 ## **Executive Summary**
 
+Over the last two years, our lives changed in ways we've never seen before and hopefully will never see again.  Between stay-at-home orders, record housing prices, market highs and lows our lives will never be the same.  We have also seen technology rapidly advancing and the fintech industry expanding.  As we come out of this period, we are seeing high rates of inflation and signs are showing that we may be heading into a recession.  With this in mind, investors are looking for ways to hedge in a Bull Market and potentially a Recession.
+  
 ## **Concept**
 We wanted to compare the relationships among different asset classes over a period of time to see if any of them seem to hedge the market during downturns.  The classes that we decided to evaluate are:
 * 10-Year Treasury Bonds from different counties
@@ -68,6 +70,15 @@ By combining these various packages and using them together, we were able to imp
 
 ## **Further Steps**
 
+  
+  
+## **Links**
+### Data Links
+Bitcoin: https://fred.stlouisfed.org/series/CBBTCUSD <br>
+US House Price Index: https://fred.stlouisfed.org/series/USSTHPI  <br>
+Various 10-Year T-Bond Returns: https://fred.stlouisfed.org <br>
+Various 10-Year T-Bond Returns: https://ca.investing.com/
 
+### Other Links Referenced
 
 
