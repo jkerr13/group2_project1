@@ -118,11 +118,10 @@ So for major developed nations there is a correlation between the price of BTC a
 
 ### Question 4:
 How are the prices of Bitcoin affected as the institutionalized cost of borrowing increases?
+
+![Bitcoin vs 10-Year T-Bill Returns During a Bear Market](Images/Q1_Returns_Bear_Mkt.png)
+
 As we can see from the graph depicting returns of  BTC vs returns of the 10 year US t-bill rate that up until 2020 the price of bitcoin was not impacted very much as the cost of borrowing (t-bill rates) had been moving. As the 10-year US t-bill started to drastically increased though in 2020 we see a big negative impact on the returns of BTC and in turn the price. The reason for this is that by 2020 with BTC having established and becoming a major part of the market it started to mirror and behave similar to the equity market market which we can see illustrated in the graph showing s and p 500 vs gold. As the equity market took a tumble so did the price of BTC. Typically the bond and equity markets do not move down at the same time. In 2020 what we saw is that because of increasing interest rates colliding with multiple factors such as the effects of covid on the market, tensions in ukraine/russia and general lack of faith in the economy the equity market was going down at the same time as the bond market was losing steam. As a result of bitcoin moving in the direction of equities at that time, it took a tumble at the same time the cost of borrowing was increasing. Typically now as Bitcoin becomes more and more rooted into the economy. It should begin to behave similar to equities and remain unaffected by institutionalized cost of borrowing increases. But At the given moment it is an atypical situation and as a result we see bitcoin prices move down as the cost of borrowing increases.
-
-
-
-
 
 
 ### Question 5:
