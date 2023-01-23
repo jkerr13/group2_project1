@@ -49,12 +49,6 @@ We also used various Python packages to help us get, clean and analyse the data.
 By combining these various packages and using them together, we were able to import all our required data, clean the data, analyse the data and create graphs and charts to help tell our story.
 
 
-## **Approach**
-
-
-
-
-
 ## **Analysis**
 With all the data available, we looked to answer a few key quesitons using python analysis and graphs.
 
@@ -132,10 +126,6 @@ As we can see a small relationship between BTC and the 10 year bond yield it is 
 BTC and housing price index having an effect on one another. 
 
 
-
-
-
-
 ### Question 6:
 What impact do hedging strategies have on the liquidity of markets during a bear market?
 Hedging strategies in a  bear market should provide the portfolio with more liquidity. The idea being that in a bear market as confidence in the market is decreasing and as we see a decline in prices it becomes increasingly more difficult to take your securities to market and sell them. So by hedging we are diversifying the risk of asset allocation across a number of portfolios.  These asset allocations remain independent of one another across different classes so that during the market downturn your portfolio is not dependant on only one of the investment type declining. In our portfolio, we are looking at BTC(crypto), treasury bonds (fixed-income), gold/oil(commodity market), and housing price index(real estate market).  Due to the price of BTC, you cannot see it in the graph except around 2015-2016 when it began to take hold in the market.   
@@ -144,13 +134,6 @@ Hedging strategies in a  bear market should provide the portfolio with more liqu
 ![Bitcoin Prices](Images/Q6_Bitcoin.png)
 
 When we look at gold vs US T-bills vs cash vs crude oil from 2000-2024 we can see that in 2008 as oil and gold were taking a big dip, the t-bill market was fairly consistent and although bond yield had slightly increased resulting in a drop in bond prices, the dip in bond prices would not have been as significant as the dip in the oil price. As a result at that time if you were to be in need of liquidity by taking both your bonds and oil to market - incase no one was buying your oil you could still sell some of your bonds or gold for that matter as a way to provide yourself some liquidity relief while maintaining your oil position giving it time to recover and not having to dump it off at an extremely low price. We see similar behavior with crude oil in 2020 and even more drastic of a dip in oil vs the increase in bond yield and gold and as we can see hedging your oil in 2020 was a very smart move as the oil market had dipped so low and bounced back to such a high that had you been in need of cash when oil dipped and you had to liquidate your investments at such an all time low you would have missed the opportunity for oil to skyrocket in its recovery period as we can see in 2021-2022 onward. 
-
-
-
-## **Demo**
-
-
-
 
 
 ## **Further Steps**
