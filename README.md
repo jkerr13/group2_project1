@@ -100,18 +100,19 @@ Need Graph
 
 ### Question 3:
 Is there a correlation between the prices of Bitcoin and 10 year T-Bills?
-We are going to take the data for the monthly price changes to BTC and the 10 year T-Bills for all the major world economies selected. After taking this MoM data and compiling it, we are going to plot the data on a graph and study the trends and relationship between the prices of the 10 year T-Bills and Bitcoin to ascertain if there is a correlation between them.
+We looked at the data for the monthly price changes to BTC and the 10 year T-Bills for all the major world economies selected. After taking this month over month data and compiling it, we plotted the data on a graph and studied the trends and relationship between the prices of the 10 year T-Bills and Bitcoin to ascertain if there is a correlation between them.
 
-Yes there is a correlation between the prices of the 10 year t-bills and the price of bitcoin. We can see that up until 2020 the us t-bills rate and price and the price of BTC did not have such a strong correlation up until that point because the 10 year t-bill rate has been consistent as the rate on 10 year us t-bills had not moved very much. But we can see that as bitcoin started to gain footing in 2020 as a major mover and t-bill rate volatility has increased we can see that the two start to have more and more of a correlation in terms of price. As bonds have an inverse price/rate relationship we can see the returns table showing an increase rate(decrease bond price) at the same time BTC returns declining. The indicates a correlation between the two as they are moving at the time towards having a negative impact on a portfolio at the same time. As your bond rate increases your bond price decreases and at the same time your BTC price decreases. 
+![Bitcoin vs 10-Year T-Bill Returns During a Bear Market](Images/Q1_Returns_Bear_Mkt.png)
+
+We determined that, yes, there is a correlation between the prices of the 10 year t-bills and the price of bitcoin. We can see that up until 2020 the us t-bills rate and price and the price of BTC did not have such a strong correlation up until that point because the 10 year t-bill rate has been consistent as the rate on 10 year us t-bills had not moved very much. But we can see that as bitcoin started to gain footing in 2020 as a major mover and t-bill rate volatility has increased we can see that the two start to have more and more of a correlation in terms of price. As bonds have an inverse price/rate relationship we can see the returns table showing an increase rate(decrease bond price) at the same time BTC returns declining. The indicates a correlation between the two as they are moving at the time towards having a negative impact on a portfolio at the same time. As your bond rate increases your bond price decreases and at the same time your BTC price decreases. 
 
 The same thing will be the case for most developed nations around the world as all of the major developed nations monetary policy setting institutions such as the federal reserve in the USA or Bank of Canada will work together in rate targeting and move bond prices together in order to drive the world economy as a whole. So as a result you will see a correlation in prices of 10 year t-bills from developed countries also moving the same way as bitcoin prices as we can see the same response in bond rate hikes further devaluing the prices of their bonds in countries like the UK, Germany, Australia, France. 
+
+![Country Comparisons](Images/Q3_Countries.png)
 
 For developing nations such as Brazil we can see that the t-bill rate is very volatile as a result of economic uncertainty so for those countries there tends to be no correlation between the price of bitcoin and t-bill rates.
 
 So for major developed nations there is a correlation between the price of BTC and price 10 year t-bills but that not the case for developing nations with much higher t-bill rate volatility.
-
-
-
 
 
 
