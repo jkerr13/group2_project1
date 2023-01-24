@@ -144,9 +144,6 @@ Hedging strategies in a bear market should provide the portfolio with more liqui
 ![Bitcoin Prices](Images/Q6_Bitcoin.png)
 
 When we look at gold vs the US T-bills vs cash vs crude oil from 2000-2024 we can see that in 2008 as oil and gold were taking a big dip, the t-bill market was fairly consistent and although bond yield had slightly increased resulting in a drop in bond prices, the dip in bond prices would not have been as significant as the dip in the oil price. As a result at that time if you were to be in need of liquidity by taking both your bonds and oil to market - in case no one was buying your oil you could still sell some of your bonds or gold for that matter as a way to provide yourself some liquidity relief while maintaining your oil position giving it time to recover and not having to dump it off at an extremely low price. We see similar behavior with crude oil in 2020 and an even more drastic dip in oil vs the increase in bond yield and gold as we can see hedging your oil in 2020 was a very smart move as the oil market had dipped so low and bounced back to such a high that had you been in need of cash when oil dipped and you had to liquidate your investments at such an all-time low you would have missed the opportunity for oil to skyrocket in its recovery period as we can see in 2021-2022 onward.
-
-## **Further Steps**
-
   
   
 ## **Links**
