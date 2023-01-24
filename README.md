@@ -74,7 +74,7 @@ We looked at the monthly price changes in gold and compared it with the performa
 
 **Gold vs 10 yr US T-Bills:** Studying the trends and correlation between gold and 10-year US Treasury bills, we can see that there is a ***notable correlation between the two asset classes.*** The US T-Bills outperform gold till 2008 after which gold takes a massive lead in the performance against US 10 yr t-bills. We can see that the performance of the 2 asset classes is positively correlated with each other but we can not say that the correlation is consistent. The market for both assets moves in a similar manner from 2015 till 2020 when we note a massive surge in the prices for both assets, followed by a complete reversal for the US T-bills while gold continues to outperform the t-bills, with the gap in price indexes growing wider. ***After carefully analyzing the trends of the 2 asset classes, we can conclude that gold is a better hedge than the US 10-year T-Bills during times of economic turmoil.***
   
-![Gold vs Bitcoin](Images/Q2_Gold_Bitcoin.png)
+![Gold vs Treasury](Images/Q2_Gold_Treasury.png)
 
 **Gold vs Crude Oil:** Gold became a strong asset class after the economic recession of 2008. Crude oil outperformed gold till 2008 and it gained a major advantage against gold during the time immediately following the 2008 financial crisis, after which it nose-dived. The prices of the two asset classes move in the same direction, with varying volatilities, from 2009 to 2020. ***After careful analysis of the trends, we can conclude that the performance of two asset classes is negatively correlated during periods of economic turmoil and that in the long run, gold is a better hedge against crude oil whereas, crude oil is a very good short term investment with massive returns during times of economic uncertainty.*** For example, if a company were to buy crude oil before the onset of economically unstable periods, and hold it to sell during the market recovery period, the company could make phenomenal returns on its short-term investment.
   
@@ -82,17 +82,19 @@ We looked at the monthly price changes in gold and compared it with the performa
 
 **Gold vs S&P 500 Index:** After analyzing the trends and relation between the performance of gold and the S&P 500 Index against each other, we note that ***gold only outperformed the stock market for a brief period from 2010 to 2013*** after which the stock market has been consistently growing positively whereas the prices of gold have been stuck in the same price range (more or less). We can see that in times of economic uncertainty i.e., 2008 and 2020, there was a ***negative correlation in the prices of the two assets*** with the stock market taking a huge dump while gold prices increased. ***After careful analysis, we can conclude that the S&P 500 Index is a way better asset class to invest, against gold, in the long run as we can see that the gap difference in prices of the two asset classes has been increasing tremendously over the years. To be noted: Gold is a good hedge against the S&P 500 during times of economic uncertainty because as the prices of S&P 500 Index decrease, the prices of gold move in an opposite direction and increase.***
 
-![Gold vs SP500](Images/Q2_Gold_SP500.png)
+![Gold vs SP500](Images/Q2_Gold_SP500.png) <br>
 ![Gold vs SP500](Images/Gold.png)
 ![Gold vs SP500](Images/SP500.png)
 
 **Gold vs BTC:** There is not a lot of data to compare these two asset classes for a complete analysis since bitcoin only really came into the picture of being recognized as a viable investment class after 2016. Upon analyzing the trends of gold and bitcoin, also known as e-gold, we can see that as the price of gold increased in 2016, so does the price of bitcoin and as the prices of gold surged in 2020, so did the prices of Bitcoin. It would not be wrong to conclude that both asset classes are positively correlated with varying volatilities. The prices of e-gold are very volatile as compared to the prices of gold. ***After careful analysis, we can say that during times of economic turmoil, gold is a better asset class to invest in for risk-averse investors whereas Bitcoin is a better asset class for risk-loving investors.***
   
-![Gold vs Bitcoin](Images/Q2_Gold_Bitcoin.png)
+![Gold vs Bitcoin](Images/Q2_Gold_Bitcoin.png) <br>
+![Gold](Images/Gold.png)
+![Bitcoin](Images/Bitcoin.png)
 
 **Gold vs the US House Pricing Index:** Upon studying the trends of performance of gold versus the US House Pricing Index, we can conclude that gold is a better asset class to invest in fairly easily. We can note that the chart line for the US House Price Index is more or less confined within the same range and there is no major volatility in the prices of houses in the US, except for 2008. On the other hand, we can note that the price volatility in gold is fairly high and that the prices increased exponentially after the 2008 recession. In my opinion, ***Gold is a better investment against the average US House Pricing Index but it might be more lucrative to buy houses and properties in places where one would expect a higher ROI because property prices vary throughout the US due to various factors.***
 
-![Gold vs Housing](Images/Q2_Gold_Housing.png)  
+![Gold vs Housing](Images/Q2_Gold_Housing.png) <br>
 ![Gold vs Housing](Images/Gold.png)
 ![Gold vs Housing](Images/Housing.png)
 
@@ -106,9 +108,9 @@ We looked at the data for the monthly price changes to BTC and the 10-year T-Bil
 We determined that, yes, there is a correlation between the prices of the 10-year t-bills and the price of bitcoin. We can see that up until 2020 US t-bills rate and price and the price of BTC did not have such a strong correlation up until that point because the 10-year t-bill rate has been consistent as the rate on 10-year US t-bills had not moved very much. But we can see that as bitcoin started to gain footing in 2020 as a major mover and t-bill rate volatility has increased we can see that the two start to have more and more of a correlation in terms of price. As bonds have an inverse price/rate relationship we can see the returns table showing an increased rate(decreased bond price) at the same time BTC returns decline. This indicates a correlation between the two as they are moving at the time towards having a negative impact on a portfolio at the same time. As your bond rate increases your bond price decreases and at the same time your BTC price decreases.
 
 The same thing will be the case for most developed nations around the world as all of the major developed nations' monetary policy-setting institutions such as the federal reserve in the USA or Bank of Canada will work together in rate targeting and move bond prices together in order to drive the world economy as a whole. So as a result you will see a correlation in prices of 10-year t-bills from developed countries also moving the same way as bitcoin prices as we can see the same response in bond rate hikes further devaluing the prices of their bonds in countries like the UK, Germany, Australia, France.
-  
 
 ![Country Comparisons](Images/Q3_Countries.png)
+![Country Comparisons](Images/Excl_Brazil.png)
 
 For developing nations such as Brazil, we can see that the t-bill rate is very volatile as a result of economic uncertainty so for those countries there tends to be no correlation between the price of bitcoin and t-bill rates.
 
