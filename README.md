@@ -70,7 +70,7 @@ We analyzed the data for the monthly price changes for BTC and the 10-year T-Bil
 
 We looked at the monthly price changes in gold and compared it with the performance of the 10 year T-Bills for selected  major world economies, crude oil, Bitcoin, and the US House Pricing index. After taking all the month over month data and compiling it, we plotted the data on a graph to study the trends and analyze the difference in the performance of gold versus all other asset classes chosen and ascertain if gold really is the best hedge during times of economic turmoil.
 
-Need Graph
+![Bitcoin Prices](Images/Q2_Returns.png)
 
 **Gold vs 10 yr US T-Bills:** Studying the trends and correlation between gold and 10-year US Treasury bills, we can see that there is a ***notable correlation between the two asset classes.*** The US T-Bills outperform gold till 2008 after which gold takes a massive lead in the performance against US 10 yr t-bills. We can see that the performance of the 2 asset classes is positively correlated with each other but we can not say that the correlation is consistent. The market for both assets moves in a similar manner from 2015 till 2020 when we note a massive surge in the prices for both assets, followed by a complete reversal for the US T-bills while gold continues to outperform the t-bills, with the gap in price indexes growing wider. ***After carefully analyzing the trends of the 2 asset classes, we can conclude that gold is a better hedge than the US 10-year T-Bills during times of economic turmoil.***
   
@@ -83,15 +83,18 @@ Need Graph
 **Gold vs S&P 500 Index:** After analyzing the trends and relation between the performance of gold and the S&P 500 Index against each other, we note that ***gold only outperformed the stock market for a brief period from 2010 to 2013*** after which the stock market has been consistently growing positively whereas the prices of gold have been stuck in the same price range (more or less). We can see that in times of economic uncertainty i.e., 2008 and 2020, there was a ***negative correlation in the prices of the two assets*** with the stock market taking a huge dump while gold prices increased. ***After careful analysis, we can conclude that the S&P 500 Index is a way better asset class to invest, against gold, in the long run as we can see that the gap difference in prices of the two asset classes has been increasing tremendously over the years. To be noted: Gold is a good hedge against the S&P 500 during times of economic uncertainty because as the prices of S&P 500 Index decrease, the prices of gold move in an opposite direction and increase.***
 
 ![Gold vs SP500](Images/Q2_Gold_SP500.png)
+![Gold vs SP500](Images/Gold.png)
+![Gold vs SP500](Images/SP500.png)
 
 **Gold vs BTC:** There is not a lot of data to compare these two asset classes for a complete analysis since bitcoin only really came into the picture of being recognized as a viable investment class after 2016. Upon analyzing the trends of gold and bitcoin, also known as e-gold, we can see that as the price of gold increased in 2016, so does the price of bitcoin and as the prices of gold surged in 2020, so did the prices of Bitcoin. It would not be wrong to conclude that both asset classes are positively correlated with varying volatilities. The prices of e-gold are very volatile as compared to the prices of gold. ***After careful analysis, we can say that during times of economic turmoil, gold is a better asset class to invest in for risk-averse investors whereas Bitcoin is a better asset class for risk-loving investors.***
   
 ![Gold vs Bitcoin](Images/Q2_Gold_Bitcoin.png)
 
 **Gold vs the US House Pricing Index:** Upon studying the trends of performance of gold versus the US House Pricing Index, we can conclude that gold is a better asset class to invest in fairly easily. We can note that the chart line for the US House Price Index is more or less confined within the same range and there is no major volatility in the prices of houses in the US, except for 2008. On the other hand, we can note that the price volatility in gold is fairly high and that the prices increased exponentially after the 2008 recession. In my opinion, ***Gold is a better investment against the average US House Pricing Index but it might be more lucrative to buy houses and properties in places where one would expect a higher ROI because property prices vary throughout the US due to various factors.***
-  
-![Gold vs Housing](Images/Q2_Gold_Housing.png)
 
+![Gold vs Housing](Images/Q2_Gold_Housing.png)  
+![Gold vs Housing](Images/Gold.png)
+![Gold vs Housing](Images/Housing.png)
 
 ### Question 3:
 **Is there a correlation between the prices of Bitcoin and 10-year T-Bills?**
@@ -127,7 +130,7 @@ Based on what we can see from the behavior of returns and prices between the ass
   Now what we can see from the data is that in the current rate environment from 2021 onward as the 10-year yield has been increasing there has been a direct effect on the housing price index which has decreased in the time that the bond yields have increased indicating that there is a correlation, we can also that in 2008-2012 around the time and post-2008 financial crisis the bond yields have a direct spike at the time that the housing price index had decreased. The commodity market and 10-year bond yield usually do not have a correlation as commodities behave separately from the equity and bond market. We can see Gold vs SP500 the two do not show strong movements of the same magnitude and direction. 
   Similarly, we can see that as the 10-year bond yield moved significantly in 2020-2021 oil had a very large dip but gold remained largely unaffected. Traditionally commodities do not correlate to the bond or equity market and as BTC has been closely related to both we can make a case that there is no correlation between BTC, the housing price index, or 10-year bond yield and the commodity market. As we can see a small relationship between BTC and the 10-year bond yield it is difficult to make an association between BTC and the housing price index at this point. The housing market cycle typically is about 15 years, BTC has been around only since 2009 it is unclear whether the two have a correlation. At the moment the effect of BTC and the bond yield are the closest link can make to BTC and the housing price index having an effect on one another.
 
-
+![Bitcoin Prices](Images/Q5_Regression.png)
 
 
 ### Question 6:
@@ -150,7 +153,3 @@ Bitcoin: https://fred.stlouisfed.org/series/CBBTCUSD <br>
 US House Price Index: https://fred.stlouisfed.org/series/USSTHPI  <br>
 Various 10-Year T-Bond Returns: https://fred.stlouisfed.org <br>
 Various 10-Year T-Bond Returns: https://ca.investing.com/
-
-### Other Links Referenced
-
-
